@@ -1,5 +1,7 @@
-zhihu/node_modules/
-zhihu/package-lock.json
-zhihu/__pycache__/
-*.xlsx
-*.txt
+zhihu//node_modules/
+zhihu//package-lock.json
+zhihu//__pycache__/
+zhihu//*.xlsx
+zhihu//cookies.txt
+zhihu//account_info
+.DS_Store
